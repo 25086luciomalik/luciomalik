@@ -1,50 +1,47 @@
-# 👋 Hello, I'm Lucio Malik!
+# 👋 Ola! Hau-nia naran Lucio Malik
 
-### 💻 Aspiring Software Developer | Timor-Leste 🇹🇱
+🇹🇱 Hau husi Timor-Leste.
 
-Welcome to my GitHub profile!
+## 👨‍🎓 Kona-ba Hau
 
-I'm learning programming and building projects
-to develop my software development skills.
+Hau mak estudante ne'ebé aprende hela kona-ba
+komputadór no programasaun.
 
----
+Hau uza GitHub atu rai hau-nia projetu sira
+no aprende buat foun.
 
-## 🚀 About Me
+## 📚 Buat ne'ebé Hau Aprende Hela
 
-- 🌱 Currently learning software development
-- 💻 Interested in desktop and web applications
-- 🗄️ Learning database management
-- 🎯 Goal: Become a professional software developer
+- 💻 Aprende uza komputadór
+- ☕ Aprende programasaun Java
+- 🌐 Aprende HTML no CSS
+- 🐘 Aprende PHP
+- 🗄️ Aprende MySQL
+- 🔧 Aprende uza Git no GitHub
 
-## 🛠️ Technologies
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 📂 My Projects
+## 📂 Hau-nia Projetu sira
 
 ### 🛒 Sistema Loja
-A desktop application for managing products,
-customers, sales, and reports.
 
-### 🌐 Web Registration System
-A web application for registering and managing data.
+Hau halo projetu Sistema Loja atu aprende kona-ba:
+- Produtu
+- Kliente
+- Venda
+- Stock
+- Relatóriu
 
-## 🎯 My Goals
+### 🌐 Sistema Rejistu
 
-- Improve my programming skills
-- Build useful applications
-- Learn new technologies
-- Share my projects with the developer community
+Hau halo projetu rejistu atu aprende oinsá
+atu rai no jere dadus.
 
-## 📫 Connect With Me
+## 🎯 Hau-nia Objetivu
 
-- GitHub: [My GitHub Profile](https://github.com/luciomalik)
+- Aprende programasaun di'ak liu tan
+- Hadi'a hau-nia koñesimentu kona-ba komputadór
+- Aprende halo projetu foun
+- Sai ema ne'ebé iha koñesimentu di'ak iha área teknolojia
 
----
+## 🇹🇱 Timor-Leste
 
-⭐ Thanks for visiting my profile!
+Obrigadu tanba vizita hau-nia GitHub! 🙏
