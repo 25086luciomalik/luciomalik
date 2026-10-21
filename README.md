@@ -1,6 +1,6 @@
 # 👋 Ola! Hau-nia naran Lucio Malik
 
-🇹🇱 Hau husi Timor-Leste.
+🇹🇱 Hau husi Ainaro.
 
 ## 👨‍🎓 Kona-ba Hau
 
@@ -42,6 +42,6 @@ atu rai no jere dadus.
 - Aprende halo projetu foun
 - Sai ema ne'ebé iha koñesimentu di'ak iha área teknolojia
 
-## 🇹🇱 Timor-Leste
+## 🇹🇱 Timor-Leste/Ainaro
 
 Obrigadu tanba vizita hau-nia GitHub! 🙏
